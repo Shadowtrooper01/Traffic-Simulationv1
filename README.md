@@ -22,7 +22,7 @@ This project provides a real-time traffic simulation and management visualizatio
 
 ## Installation
 
-Install the required packages using pip:
+Install all required packages using pip with the following command:
 
 ```bash
 pip install pygame numpy pandas scikit-learn openpyxl
@@ -63,6 +63,7 @@ Simulation data is logged every frame and saved as an Excel file in the `logs` d
 - `viz2.py`: Main visualization and simulation script.
 - `test1.py`: Traffic management system with data generation and model training.
 - `vizual1.py`: Alternative traffic simulation visualization.
+- `veztest.py`: Additional test or utility script (dependencies may vary).
 
 ## License
 
